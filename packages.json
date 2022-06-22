@@ -26544,5 +26544,18 @@
     "license": "MIT",
     "web": "https://github.com/ire4ever1190/anano",
     "doc": "https://tempdocs.netlify.app/anano/stable"
+  },
+  {
+    "name": "icedewma",
+    "url": "https://github.com/IcedQuinn/icedewma",
+    "method": "git",
+    "tags": [
+      "ewma",
+      "math",
+      "statistics"
+    ],
+    "description": "Exponentially Weighted Moving Averages (and deviations)",
+    "license": "MPL-2.0",
+    "web": "https://github.com/IcedQuinn/icedewma"
   }
 ]
